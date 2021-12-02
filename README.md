@@ -21,3 +21,15 @@ https://sokoglam.com/collections/spf/products/thank-you-farmer-sun-project-water
 https://www.refinery29.com/en-us/shop/product/bombee-moist-sun-essence-spf-50-pa-9930348
 https://www.amazon.com/dp/B07BDCYN4P?tag=byrdie01-20&linkCode=ogi&th=1&psc=1&ascsubtag=4801000%7Cn13023278887f4503bbb79e856c0aebf814%7CB07BDCYN4P
 https://www.stylecraze.com/articles/best-korean-sunscreen-for-oily-skin/
+
+Icons are from: 
+Cleanser: https://www.flaticon.com/download/icon/landing/4046472?format=png&size=512&type=standard
+
+serum: https://www.flaticon.com/free-icon/serum_3499085?term=serum&page=1&position=75&page=1&position=75&related_id=3499085&origin=search
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+cream: https://www.flaticon.com/free-icon/moisturizer_3461705?term=moisturizing%20cream&page=1&position=3&page=1&position=3&related_id=3461705&origin=search
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+spf: https://www.flaticon.com/free-icon/sunscreen_3069261?term=sunscreen&page=1&position=7&page=1&position=7&related_id=3069261&origin=search
+<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
